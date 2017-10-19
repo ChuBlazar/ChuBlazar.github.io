@@ -23,7 +23,7 @@ categories: ideas
 # Project Name: 3C 273 (Waiting)
 通过Vela的开发，将字体模块集成于手机中，实现软件上的泛用性，能否实现取决于Vela的研制效果。
 
-# Project Name: VRO 42.22.01 (Waiting)
+# Project Name: VRO 42.22.01 (N-DEV)
 高精度手机测试视力，软硬件结合，正在研究设计原理，目前项目过多，搁置中。
 
 # Project Name: 3C 48 (N-DEV)
